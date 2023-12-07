@@ -1,0 +1,31 @@
+Áttekintés:
+A Stellar HTML5 weboldal sablon egy modern és sokoldalú megoldás mind személyes, mind kereskedelmi felhasználásra. Az esztétikai vonzerőt a funkcionalitással ötvözi, reszponzív kialakítással, amely optimális megjelenítési élményt biztosít a különböző eszközökön.
+
+Fő jellemzők:
+1. Reszponzív design
+A sablon reszponzív kialakítással rendelkezik, amely zökkenőmentes elérhetőséget és optimális felhasználói élményt biztosít az eszközök széles skáláján, az asztali számítógépektől a mobil eszközökig.
+
+Navigáció:
+A navigációs menü lehetővé teszi a könnyű felfedezést, a bemutatkozásnak, a beépített áruháznak, a gépbemutatónak és a vendégháznak szentelt részekkel. A felhasználók könnyedén navigálhatnak a weboldal tartalmában.
+
+Beépített áruház:
+A sablon beépített áruház szekcióval rendelkezik, amely vonzó és felhasználóbarát platformot biztosít a termékek vagy szolgáltatások bemutatására. A Bootstrap használata biztosítja a vizuálisan vonzó és jól szervezett megjelenítést.
+
+Gépek bemutatója:
+Egy külön szekció kiemeli a vállalkozás által kínált gépeket vagy berendezéseket. A reszponzív image carousel beépítése javítja a bemutatott elemek vizuális megjelenítését.
+
+Vendégház szekció:
+A sablon tartalmaz egy vendégház bemutatására szolgáló részt, amely egy reszponzív image carousel tartalmaz a szálláshelyek megnyerő bemutatásához.
+
+Kapcsolat és közösségi linkek:
+A kapcsolattartási adatok, beleértve a telefonszámot és az e-mailt, jól láthatóan megjelennek. A közösségi média linkek is rendelkezésre állnak, így a felhasználók olyan platformokon kapcsolódhatnak a vállalkozáshoz, mint a Twitter, a Facebook, az Instagram, a GitHub és a Dribbble.
+
+
+Lábléc:
+A lábléc további elérhetőségi és szerzői jogi adatokat tartalmaz, valamint egy linket a HTML5 UP weboldalra, amely bemutatja a sablon tervezési eredetét.
+
+Technology Stack:
+A sablon a Bootstrap keretrendszert használja CSS és JavaScript esetén, így biztosítva a robusztus és vizuálisan vonzó elrendezést. További szkriptek, például a jQuery, a Scrollex és a Scrolly hozzájárulnak a fokozott funkcionalitáshoz.
+
+License:
+A Stellar sablon a Creative Commons Attribution 3.0 Unported (CC BY 3.0) licenc alatt kerül kiadásra, amely lehetővé teszi mind a személyes, mind a kereskedelmi felhasználást, megfelelő hivatkozással.
